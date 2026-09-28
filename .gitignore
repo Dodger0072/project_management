@@ -1,0 +1,14 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Office temporary files
+~$*
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Generated reports and simulation outputs
+generated/
