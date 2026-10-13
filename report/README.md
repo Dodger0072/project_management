@@ -13,4 +13,4 @@
 
 - `final-report.docx` — итоговый отчёт;
 - `raci-matrix.xlsx` — актуальная матрица ответственности;
-- `tracker-link.md` — ссылка и краткое описание организации задач.
+- [TASK_TRACKER.md](../TASK_TRACKER.md) — сводный журнал задач и ссылка на YouGile.
